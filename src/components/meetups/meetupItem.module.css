@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Mridul00700 
-academind
-/
-react-complete-guide-code
-47
-1k2.2k
-Code
-Issues
-10
-Pull requests
-11
-Actions
-Projects
-Wiki
-Security
-Insights
-react-complete-guide-code/code/12-adding-more-react-components/src/components/meetups/MeetupItem.module.css
-@maxschwarzmueller
-maxschwarzmueller added slides and code
-Latest commit d293d5b on Mar 24
- History
- 1 contributor
-46 lines (39 sloc)  636 Bytes
-  
 .item {
   margin: 1rem 0;
 }
@@ -76,16 +44,3 @@ Latest commit d293d5b on Mar 24
 .actions button:active {
   background-color: #ffe2ed;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete

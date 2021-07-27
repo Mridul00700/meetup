@@ -1,4 +1,4 @@
-import classes from './meetupItem.module.css';
+import classes from './MeetupItem.module.css';
 
 export default function meetupItem(props) {
     return (
@@ -11,9 +11,9 @@ export default function meetupItem(props) {
                 <address>{props.address}</address>
                 <p>{props.description}</p>
             </div>
-            <div>
-                <button className={classes.actions}>To FAVOURITES</button>
+            <div className={classes.actions}>
+                <button >To FAVOURITES</button>
             </div>
-        </li>
+        </li >
     )
 }
